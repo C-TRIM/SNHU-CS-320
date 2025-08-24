@@ -1,5 +1,29 @@
 README.md
 
+# CS 320 Portfolio Submission
+
+## Overview
+This repository contains my portfolio artifacts for **CS 320: Software Testing, Automation, and Quality Assurance**.  
+It includes work from Project One and Project Two, demonstrating my ability to design unit tests, analyze requirements, and apply testing strategies to ensure functional, reliable, and secure software.
+
+---
+
+## Artifacts
+
+### Project One
+- `Contact.java`  
+- `ContactService.java`  
+- `ContactTest.java`  
+- `ContactServiceTest.java`  
+
+These files show my ability to implement object-oriented design and create JUnit tests that verify functionality, boundary conditions, and error handling.
+
+### Project Two
+- **Summary and Reflections Report**  
+
+This report reflects on the testing approaches I used, such as black box testing and boundary value analysis, and explains how my tests aligned with requirements to achieve strong code coverage.
+
+
 Reflection
 
 How can I ensure that my code, program, or software is functional and secure?
